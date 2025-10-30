@@ -17,8 +17,4 @@ Original Image             |  Mask Image
 :-------------------------:|:-------------------------:
 ![](img/image.png)  |  ![](img/mask.png)
 
-## Contact
-For any query contact below:
-- [Facebook](https://www.facebook.com/idiotdeveloper)
-- [Instagram](https://www.instagram.com/nikhilroxtomar/)
-- [Telegram](https://t.me/idiotdeveloper)
+
